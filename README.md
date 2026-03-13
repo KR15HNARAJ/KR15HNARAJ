@@ -30,12 +30,12 @@ Focused on building scalable web applications and continuously improving softwar
 
 ### Database
 <p>
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
