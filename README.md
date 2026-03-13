@@ -1,89 +1,60 @@
-# Hi 👋 I'm Krishnaraj Packirisamy
+<h1 align="center">Hi 👋, I'm Krishnaraj</h1>
+<h3 align="center">Java Full Stack Developer | Java • Spring • React</h3>
 
-💻 Frontend Developer
-📍 Maraimalai Nagar, Tamil Nadu, India
-
-I enjoy building practical web applications and improving my skills in modern web development.
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning and improving **React & JavaScript**
-* 💡 Interested in building useful web applications
-* 🎯 Goal: Become a **Full Stack Developer**
+<p align="center">
+Focused on building scalable web applications and improving software engineering skills.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-**Languages**
-
-* HTML
-* CSS
-* JavaScript
-
-**Frameworks**
-
-* React
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Vercel
+• Full Stack Developer passionate about modern web technologies  
+• Experienced in building frontend interfaces and backend services  
+• Interested in scalable system design and clean architecture  
+• Continuously learning new tools and frameworks  
 
 ---
 
-## 📂 Projects
+### ⚡ Tech Stack
 
-### Portfolio Website
+#### Frontend
+HTML  
+CSS  
+JavaScript  
+React  
 
-Personal portfolio website showcasing my work.
+#### Backend
+Java  
+Spring Framework  
 
-Live Demo
-https://krishnarajp.vercel.app/
+#### Database
+PostgreSQL  
 
----
-
-### Fitness Tracker App
-
-A web application to track daily fitness activities.
-
-Features
-
-* Track workouts
-* Monitor progress
-* Simple UI
-
----
-
-### YouTube Clone
-
-A YouTube-style interface built to practice frontend development.
-
-Features
-
-* Video layout UI
-* Responsive design
-* Component-based structure
+#### Tools
+Git  
+GitHub  
+VS Code  
+Vercel  
+Spring Tool Suite  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnarajpackirisamy\&show_icons=true\&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KR15HNARAJ&show_icons=true&theme=github_dark" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 
-Email
-[krishnarajpackirisamy@gmail.com](mailto:krishnarajpackirisamy@gmail.com)
+Email  
+krishnarajpackirisamy@gmail.com  
 
-LinkedIn
-https://linkedin.com/in/krishnarajdevr
+LinkedIn  
+https://linkedin.com/in/krishnarajdevr  
 
-GitHub
-https://github.com/krishnarajpackirisamy
+GitHub  
+https://github.com/KR15HNARAJ
