@@ -2,62 +2,66 @@
 <h3 align="center">Java Full Stack Developer | Java • Spring • React</h3>
 
 <p align="center">
-Focused on building scalable web applications and improving software engineering skills.
+Focused on building scalable web applications and continuously improving software engineering skills.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-• Full Stack Developer passionate about modern web technologies  
-• Experienced in building frontend interfaces and backend services  
-• Interested in scalable system design and clean architecture  
-• Continuously learning new tools and frameworks  
-
----
-
-### ⚡ Tech Stack
-
-#### Frontend
-HTML  
-CSS  
-JavaScript  
-React  
-
-#### Backend
-Java  
-Spring Framework  
-
-#### Database
-PostgreSQL  
-
-#### Tools
-Git  
-GitHub  
-VS Code  
-Vercel  
-Spring Tool Suite  
+• Java Full Stack Developer  
+• Interested in building scalable web applications  
+• Passionate about clean UI and efficient backend systems  
+• Continuously learning modern technologies and frameworks  
 
 ---
 
-### 📊 GitHub Statistics
+# ⚡ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KR15HNARAJ&show_icons=true&theme=github_dark" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KR15HNARAJ&layout=compact&theme=github_dark" />
+</p>
+
 ---
 
-### 🔗 Connect With Me
+# 🔗 Connect With Me
 
-Email  
+📧 Email  
 krishnarajpackirisamy@gmail.com  
 
-LinkedIn  
+💼 LinkedIn  
 https://linkedin.com/in/krishnarajdevr  
 
-GitHub  
-https://github.com/KR15HNARAJ
-
-Portfolio   
+🌐 Portfolio  
 https://krishnarajp.vercel.app/
+
+💻 GitHub  
+https://github.com/KR15HNARAJ
